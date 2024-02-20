@@ -10,9 +10,9 @@ This repository serves as a compilation of small JavaScript projects that I've b
 
 Below is a list of the mini projects included in this repository:
 
-- [MadZoo](madZoo/): A fun JavaScript game where you can shoot animals and gain score with animations and sound effects.
+- [MadZoo](../../tree/madZoo): A fun JavaScript game where you can shoot animals and gain score with animations and sound effects.
 
-- [TODO-Timer](TODO-Timer/): A TODO list application with a timer feature for tracking task durations.
+- [TODO-Timer](../../tree/TODO-Timer): A TODO list application with a timer feature for tracking task durations.
 
 ## Usage
 
