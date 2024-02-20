@@ -20,3 +20,4 @@ To explore any of the mini projects, simply click on the project name above or n
 
 ```bash
 cd madZoo
+
