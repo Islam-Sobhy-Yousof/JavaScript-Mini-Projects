@@ -1,23 +1,31 @@
-# JavaScript Mini Projects
+# TODO-Timer
 
-Welcome to my JavaScript mini projects repository! This repository contains a collection of mini projects that I've created as part of my learning journey.
+TODO-Timer is a TODO list application with a timer feature for tracking task durations.
 
 ## Overview
 
-This repository serves as a compilation of small JavaScript projects that I've built to practice and reinforce my programming skills. Each project focuses on a specific concept or feature of JavaScript, allowing me to experiment and learn in a hands-on manner.
+TODO-Timer is a simple yet powerful task management tool that allows you to keep track of your tasks and their durations. Whether you're working on a project or managing your daily tasks, TODO-Timer helps you stay organized and focused.
 
-## Projects
+## Technologies Used
 
-Below is a list of the mini projects included in this repository:
+TODO-Timer is built using the following technologies:
 
-- [MadZoo](../../tree/madZoo): A fun JavaScript game where you can shoot animals and gain score with animations and sound effects.
+- HTML5
+- CSS3
+- JavaScript (DOM manipulation)
+- CSS Animation
 
-- [TODO-Timer](../../tree/TODO-Timer): A TODO list application with a timer feature for tracking task durations.
+## Features
 
-## Usage
+- **Task Management**: Add, edit, and delete tasks from your TODO list.
+- **Timer Functionality**: Set a timer for each task to track its duration.
+- **Task Completion**: Mark tasks as completed when finished.
+- **User-Friendly Interface**: Intuitive design for easy task management.
 
-To explore any of the mini projects, simply click on the project name above or navigate to the corresponding directory and open the `index.html` file in your web browser.
+## How to Use
 
-```bash
-cd madZoo
+To use TODO-Timer, simply open the `index.html` file in your web browser. Add tasks to your TODO list and start the timer for each task. The timer will automatically track the duration of each task until marked as completed.
+
+Enjoy staying organized with TODO-Timer!
+
 
